@@ -1,1 +1,2 @@
-"# todo-list-qt-qml" 
+# ToDoList Qt/QML
+
